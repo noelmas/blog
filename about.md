@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Noelmas data doodles
+title: About this place
 permalink: /about/
 ---
 
